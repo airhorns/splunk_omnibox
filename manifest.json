@@ -1,0 +1,15 @@
+{
+  "name": "Shopify Splunk",
+  "description" : "To use, type 'splunk' plus a search term into the Omnibox.",
+  "version": "0.1",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "128": "icon-128.png",
+    "48": "icon-128.png"
+  },
+  "omnibox": { "keyword" : "splunk" },
+  "manifest_version": 2
+}
